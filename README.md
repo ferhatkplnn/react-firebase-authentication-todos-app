@@ -1,4 +1,4 @@
-# Todo Application
+# React Firbase Todo App
 
 This simple todo application allows users to add, edit, delete tasks, and manage their profile information.
 
@@ -17,8 +17,8 @@ This simple todo application allows users to add, edit, delete tasks, and manage
 1. Clone the repository:
 
 ```bash
-https://github.com/ferhatkplnn/react-firebase-post-app.git
-cd react-firebase-post-app
+https://github.com/ferhatkplnn/react-firebase-authentication-todos-app.git
+cd react-firebase-authentication-todos-app
 ```
 
 2. Install the required dependencies:
@@ -42,7 +42,6 @@ npm run dev
 
 - Firebase Authentication and Firestore are used. Create Firestore collections to store users and posts.
 
-6. View the application by going to `http://localhost:3000` in your browser.
 
 ## Usage
 
@@ -59,6 +58,7 @@ npm run dev
 - Change password
 - Upload profile picture
 - Responsive design
+- Dark Mode
 
 ## Technologies
 
@@ -70,6 +70,13 @@ npm run dev
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Profile Page](screenshots/profile.png)
-![Edit Task](screenshots/edit-task.png)
+
+![screencapture-localhost-5173-2024-02-27-00_54_46](https://github.com/ferhatkplnn/react-firebase-authentication-todos-app/assets/29931637/9d9a4323-6545-4f83-96ab-9692ac3ba3ca)
+
+![screencapture-localhost-5173-todos-2024-02-27-00_56_18](https://github.com/ferhatkplnn/react-firebase-authentication-todos-app/assets/29931637/f09eb7e0-33dd-44db-a4e2-65b4ea831822)
+
+
+![screencapture-localhost-5173-2024-02-27-00_57_07](https://github.com/ferhatkplnn/react-firebase-authentication-todos-app/assets/29931637/a4a6c2c5-2537-439c-b2b3-b0fd71379897)
+![screencapture-localhost-5173-todos-2024-02-27-00_57_35](https://github.com/ferhatkplnn/react-firebase-authentication-todos-app/assets/29931637/6ce4d9bd-8056-4200-b208-74bbd988faa7)
+![screencapture-localhost-5173-sign-in-2024-02-27-00_58_47](https://github.com/ferhatkplnn/react-firebase-authentication-todos-app/assets/29931637/6ba8cb25-ae59-4f62-93dc-a0a27703e374)
+
