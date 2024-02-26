@@ -1,5 +1,7 @@
 # React Firbase Todo App
 
+[DEMO](https://spiffy-alpaca-e68e60.netlify.app/)
+
 This simple todo application allows users to add, edit, delete tasks, and manage their profile information.
 
 ## Table of Contents
@@ -9,8 +11,6 @@ This simple todo application allows users to add, edit, delete tasks, and manage
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
