@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  @apply !text-sky-500 after:content-[""] after:h-0.5 after:w-full after:bg-red-400 after:block after:absolute duration-500;
+}
+@layer base {
+  body {
+    @apply dark:!bg-gray-900 bg-white text-slate-800 dark:text-slate-100 w-screen overflow-x-hidden;
+  }
+}
